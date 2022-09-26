@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Vasya",
+      "type": "Admin",
+      "age": 32,
+      "social" : {
+        "vk" : "vk.com",
+        "facebook": "fb.com"
+      }
+    },
+    {
+      "name": "Vasya2",
+      "type": "Admin2",
+      "age": 32,
+      "social" : {
+        "vk" : "vk2.com",
+        "facebook": "fb2.com"
+      }
+    },
+    {
+      "name": "Vasya3",
+      "type": "Admin3",
+      "age": 32,
+      "social" : {
+        "vk" : "vk3.com",
+        "facebook": "fb3.com"
+      }
+    },
+    {
+      "name": "Vasya4",
+      "type": "Admin4",
+      "age": 34,
+      "social" : {
+        "vk" : "vk4.com",
+        "facebook": "fb4.com"
+      }
+    },
+    {
+      "name": "Vasya5",
+      "type": "Admin5",
+      "age": 35,
+      "social" : {
+        "vk" : "vk5.com",
+        "facebook": "fb5.com"
+      }
+    }
+  ]
+}
