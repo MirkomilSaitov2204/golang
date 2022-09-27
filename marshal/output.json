@@ -1,0 +1,9 @@
+{
+ "name": "BOB",
+ "science_Id": 123123,
+ "is_working": true,
+ "university": {
+  "name": "TEXNAR",
+  "city": "TASHKENT"
+ }
+}
