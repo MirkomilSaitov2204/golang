@@ -19,7 +19,7 @@ func PrintUser(u *User) {
 	fmt.Printf("Social VK: %s abd Facebook: %s\n", u.Social.Vk, u.Social.Facebook)
 }
 
-//Internal User representation
+// User Internal User representation
 type User struct {
 	Name   string `json:"name"`
 	Type   string `json:"type"`
@@ -27,7 +27,6 @@ type User struct {
 	Social Social `json:"social"`
 }
 
-//Social
 type Social struct {
 	Vk       string `json:"vk"`
 	Facebook string `json:"facebook"`
